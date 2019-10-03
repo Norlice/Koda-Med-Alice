@@ -1,0 +1,15 @@
+print('Välkommen till Varannat Ord!')
+print('Man behöver vara två personer. Turas om att skriva varsitt ord. Meningen ska totalt bli tio ord lång!')
+
+ord1 = input()
+ord2 = input()
+ord3 = input()
+ord4 = input()
+ord5 = input()
+ord6 = input()
+ord7 = input()
+ord8 = input()
+ord9 = input()
+ord10 = input()
+
+print('%s %s %s %s %s %s %s %s %s %s.' % (ord1, ord2, ord3, ord4, ord5, ord6, ord7, ord8, ord9, ord10))
