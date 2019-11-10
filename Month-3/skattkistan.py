@@ -32,7 +32,7 @@ while True:
         # Skriv ut ett meddelande
         print('En pirat hoppar ut och tar alla dina mynt!')
 
-        # Återställ myntent
+        # Återställ mynten
         mynt = 0
 
         # Hoppa ur loopen
