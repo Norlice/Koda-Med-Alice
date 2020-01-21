@@ -7,8 +7,6 @@ print('Hej där, %s' % (namn) )
 
 print('Vilket är ditt favoritlag?')
 
-
-
 lag = input()
 
 if (lag == 'liverpool'):
